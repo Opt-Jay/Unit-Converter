@@ -1,8 +1,8 @@
-📐⚖️ # Unit Converter
+📐⚖️ Unit Converter
 
 A simple and intuitive web-based unit converter that converts between metric and imperial units for length, volume, and mass measurements.
 
-✨🚀 ## Features
+✨🚀 Features
 
 - **Length Conversion**: Meters ⇄ Feet
 - **Volume Conversion**: Litres ⇄ Gallons
@@ -12,13 +12,13 @@ A simple and intuitive web-based unit converter that converts between metric and
 - Clean and responsive design
 - Displays all conversions simultaneously
 
-🛠️💻 ## Technologies Used
+🛠️💻 Technologies Used
 
 - **HTML5** - Structure and layout
 - **CSS3** - Styling and responsive design
 - **JavaScript (ES6)** - Conversion logic and DOM manipulation
 
-📋🧭 ## How to Use
+📋🧭 How to Use
 
 1. Enter a number in the input field
 2. Click the "Convert" button or press Enter
@@ -27,7 +27,7 @@ A simple and intuitive web-based unit converter that converts between metric and
 - Volume (litres/gallons)
 - Mass (kilos/pounds)
 
-⬇️📦 ## Installation
+⬇️📦 Installation
 
 1. Clone the repository:
 ```bash
