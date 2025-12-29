@@ -18,7 +18,7 @@ A simple and intuitive web-based unit converter that converts between metric and
 - **CSS3** - Styling and responsive design
 - **JavaScript (ES6)** - Conversion logic and DOM manipulation
 
-📋🧭 How to Use
+📋🧭 How to Use The App
 
 1. Enter a number in the input field
 2. Click the "Convert" button or press Enter
