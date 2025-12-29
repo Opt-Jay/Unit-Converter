@@ -14,13 +14,13 @@ const conversions = {
 }
 
 
-let inputEl = document.getElementById("input")
-let convertEl = document.getElementById("convert-btn")
+const inputEl = document.getElementById("input")
+const convertEl = document.getElementById("convert-btn")
 
-let lenOutput = document.getElementById("len-output")
-let volOutput = document.getElementById("vol-output")
-let massOutput = document.getElementById("mass-output")
-let convertBtn = document.getElementById("convert-btn")
+const lenOutput = document.getElementById("len-output")
+const volOutput = document.getElementById("vol-output")
+const massOutput = document.getElementById("mass-output")
+const convertBtn = document.getElementById("convert-btn")
 
 
 //BUTTON CLICK EVENT
